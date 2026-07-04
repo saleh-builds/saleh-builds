@@ -25,8 +25,7 @@ Basic app architecture (navigation, persistence, intents, URIs)
 Ktor (beginner, basic request handling)
 
 **Tools**
-Android Studio (proficient)  
-Linux (basic CLI usage)  
+Android Studio (proficient)
 
 ---
 
@@ -43,4 +42,4 @@ Linux (basic CLI usage)
 
 Work in progress:
 - Compiler project (C)
-- Android messaging application
+- Android serialized novels app
